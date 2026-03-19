@@ -1,4 +1,4 @@
-package com.uehboutique.Entity;
+package com.uehboutique.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;
